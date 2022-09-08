@@ -203,7 +203,6 @@ Factors complicating the transition:
  mentioned in the chapter on Data, Descriptive Statistics, is a grand undertaking with many obstacles.
  Hungary's agricultural sector is highly concentrated, with 32% of agricultural land in Hungary over 500 hectares in 2016 large farms,
  owned by 0.3% of landowners (Imre Kovách, 2019).
-
  Large landholdings aim at quick returns, profit maximisation and cost minimisation,
  and it is not in their interest to replace large-scale grain fields, which are well managed with chemicals,
  with well-planned (environmental knowledge required) biodiverse crop rotations that require minimal chemicals (against non-native pests)
