@@ -73,8 +73,9 @@ BAMin = df["BA"].min()
  On average, the surveyed countries is 0.894 and the median is 0.898, giving a very slightly rightward-sloping distribution.
  Hungary has an HDI of 0.854. The sample standard deviation is 0.04798.
  
- The ratio of total organic farm area to total agricultural area is of total agricultural area is the percentage of total agricultural area that is covered by organic
- organic farms. This number can also range between 0% and 100%, i.e. between 0 and 1, which again is really good for comparission. This data is produced by Eurostat.
+ The ratio of total organic farm area to total agricultural area is of total agricultural area is the percentage of
+ total agricultural area that is covered by organic farms.
+ This number can also range between 0% and 100%, i.e. between 0 and 1, which again is really good for comparission. This data is produced by Eurostat.
  Austria is a great example, with more than a quarter of Austria's agricultural area is organic farming.
  The whole of the European Union (including the UK, since Brexit is due in 2020), Eurostat calculates this at 7.92%.
  The European Commission aims to reach 25% area under organic farming and to make aquaculture significantly greener by 2030.
