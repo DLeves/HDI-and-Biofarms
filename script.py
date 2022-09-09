@@ -6,7 +6,7 @@ Disclaimer:
  @author: Dittrich Levente
  Originally I've made this in R and Excle during my second semester in 2021/22, but wanted to convert to Python too as an element of my portfolio.
  I've made some changes compared to the original which are rather clarifications and corrections.
- I'll comment my interpreters and tougths during the file.
+ I'll comment my interpreters and thoughts during the file.
 
  The data was collected in April 18 2022.
     -HDI from the UNDP(https://hdr.undp.org/en/indicators/137506)
@@ -23,6 +23,8 @@ import seaborn as sns
 import numpy as np
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
+
+
 """
 Introduction:
 
@@ -38,8 +40,7 @@ Hypothesis:
  The initial European countries (34) studied are England, Austria, Belgium, Bulgaria,
  Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Northern Macedonia, Finland, France,
  Portugal, Romania, Spain, Sweden, Switzerland, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland,
- Turkey. Later in the model building process, some countries are justifiably excluded
- of the elements analysed.
+ Turkey. Later in the model building process, some countries are justifiably excluded of the elements analysed.
 
 
 Data, descriptive statistics:
